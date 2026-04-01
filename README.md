@@ -33,11 +33,6 @@ This implementation represents a significant advancement over typical API integr
 
 *(Insert installation steps here. Since you are using a modification of the Claw-Code repo, you'll want to detail how to build the Rust core and install the Python dependencies.)*
 
-Example:
-1. **Prerequisites:** Ensure you have Rust (cargo) and Python 3.10+ installed.
-2. **Build Core:** `cd src/rust_core && cargo build --release`
-3. **Setup Environment:** `pip install -r requirements.txt`
-
 ### Legal and Usage Disclaimer
 
 **This repository is strictly intended for educational and research purposes.** It is not affiliated with, endorsed by, or representative of any AI laboratory or commercial software product. The methodology utilized is a "clean-room" approach, designed to analyze algorithmic patterns, not copy proprietary data. By using or modifying this code, you agree that you are solely responsible for compliance with your local laws and the terms of service of any third-party APIs you connect to. 
